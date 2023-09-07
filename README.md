@@ -1,9 +1,11 @@
-#=Tittle-Tattle
+#Tittle-Tattle
 
 Real Time Chat Application based on Socket
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+
+
 
 <img width="563" alt="1" src="https://github.com/shivam12prakash/tittle-tattle/assets/65006707/7124a1fa-502e-4f3b-b21d-2943142232fd">
 <img width="868" alt="2" src="https://github.com/shivam12prakash/tittle-tattle/assets/65006707/30ad1296-9c66-4aef-ab6f-2a299e4d925a"><img width="704" alt="4" src="https://github.com/shivam12prakash/tittle-tattle/assets/65006707/0159fdfb-2543-4883-ab29-9baa9f119aef">
