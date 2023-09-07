@@ -1,6 +1,7 @@
-#Tittle-Tattle
+# Tittle-Tattle
+![Platform - Android, IOS and Web](https://img.shields.io/badge/platform-Android%20%7C%20IOS%20%7C%20Web-green.svg) 
 
-Real Time Chat Application based on Socket
+Real Time Chat Application based on WebSocket and having Auth0 authentication.
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
@@ -22,6 +23,8 @@ The project is built with the help of these technologies:
 * ![Express.js]
 * ![React.js]
 * ![Node.js]
+* WebSockets
+* Auth0
 
 
 <!-- GETTING STARTED -->
@@ -59,7 +62,17 @@ npm start
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
+* [socket-docs](https://socket.io/docs/v4/)
+* [Auth0-docs](https://auth0.com/docs/api)
 
+## Author
+
+### *Shivam Prakash*
+*I am a passionate Full Stack Developer exploring various technologies and domains*  
+
+For more exciting updates follow me,
+
+<a href="https://www.linkedin.com/in/shivam-prakash-2b3614193/" target="_blank"><img src="https://github.com/yuvraj24/LiveSmashBar/blob/master/images/linkedin.png" width="40" height="40"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/shivam12prakash" target="_blank"><img src="https://github.com/yuvraj24/LiveSmashBar/blob/master/images/github.png" height="40"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
