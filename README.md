@@ -6,7 +6,9 @@ Real Time Chat Application based on WebSocket and having Auth0 authentication.
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-
+Tittle-Tattle, is a real time chat appliaction built with the help of WebSockets.
+The Login is taken care by Auth0(i.e user can easily get logged in by providing Google credentials).
+After successful login user can able to see home screen having Logout and Chat Room Info box, user can provide username and chat room id in order chat flawlessly.
 
 <img width="563" alt="1" src="https://github.com/shivam12prakash/tittle-tattle/assets/65006707/7124a1fa-502e-4f3b-b21d-2943142232fd">
 <img width="868" alt="2" src="https://github.com/shivam12prakash/tittle-tattle/assets/65006707/30ad1296-9c66-4aef-ab6f-2a299e4d925a"><img width="704" alt="4" src="https://github.com/shivam12prakash/tittle-tattle/assets/65006707/0159fdfb-2543-4883-ab29-9baa9f119aef">
@@ -57,6 +59,12 @@ cd tittle-tattle
 cd client
 npm start
 ```
+
+### Todo
+
+- Introduce Caching with Redis
+- Upgrade to Typescript
+- Write Test using Jest 
 
 
 <!-- ACKNOWLEDGMENTS -->
